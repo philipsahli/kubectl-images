@@ -1,0 +1,3 @@
+kubectl-images
+!cmd/kubectl-images
+dist/
